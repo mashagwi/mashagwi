@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47qm1vprlaj8mlg64k571jyy34xg9esu2iz1d2fra0&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
-  <h1 align="center">Hi there, I'm Maria<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h1 align="center">Hi there, I'm Maria</h1>
   <div align="center" id="badges">
     <a href="https://t.me/mashagwi">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
